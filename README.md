@@ -1,3 +1,3 @@
-"An AI-driven model leveraging advanced algorithms to forecast future prices of cryptocurrencies, aiding investors with insightful predictions.
+🚀📊 AI-powered model for accurate crypto future price prediction. Stay ahead in the market with data-driven insights! 💡📈
 
 Live Website:- https://lnkd.in/g6KTkfuf
